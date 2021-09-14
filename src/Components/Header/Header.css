@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  height: 70px;
+
+  align-items: center;
+  border-bottom: solid wheat;
+  margin-top: 20px;
+  cursor: pointer;
+  text-transform: capitalize;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+  align-items: center;
+  margin: 10px 20px;
+}
+li {
+  list-style: none;
+  padding: 10px 20px;
+}
+.header-logo {
+  padding: 0% 20px;
+}
